@@ -15,7 +15,30 @@ ___
 
 ## Apresentação
 
-Olá, sou ...
+# 👤 Apresentação
+
+## 🙋‍♂️ Sobre mim
+- **Nome:** Bruno Harter Oliveira  
+- **Foto:** *![minhafoto](/Imagem%20do%20WhatsApp%20de%202025-12-04%20à(s)%2015.11.36_db132852.jpg)*  
+
+## 🎓 Formação
+- **Curso:** Tecnólogo em Sistemas para Internet  
+- **Instituição:** IFSul – Campus Pelotas  
+
+## 💻 Experiências em Tecnologia
+- Ainda sem experiência profissional  
+- Realizei alguns **cursos de HTML** pelo SENAC  
+- Interesse em desenvolvimento web e áreas relacionadas à tecnologia  
+
+## 🎮 Hobbies
+- Jogos  
+- Animes  
+- Futebol  
+- Leitura  
+
+---
+
+Este repositório contém todas as entregas das Sprints do programa Compass UOL, organizado conforme as orientações fornecidas.
 
 ## Sprints 
 
@@ -24,10 +47,3 @@ Olá, sou ...
 3. [Sprint 3](/Sprint%203/README.md)
 4. ...
 
-___
-
-
-# Dicas
-
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
