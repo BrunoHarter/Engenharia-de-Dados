@@ -1,0 +1,11 @@
+# Usar imagem base Python 3.9
+FROM python:3.9-slim
+
+# Definir diretório de trabalho
+WORKDIR /app
+
+# Copiar arquivo carguru_input.py para o container
+COPY carguru_input.py .
+
+# Comando padrão (input interativo)
+CMD ["python", "carguru_input.py"]
