@@ -45,5 +45,6 @@ Este repositório contém todas as entregas das Sprints do programa Compass UOL,
 1. [Sprint 1](/Sprint%201/README.md)
 2. [Sprint 2](/Sprint%202/README.md)
 3. [Sprint 3](/Sprint%203/README.md)
-4. ...
-
+4. [Sprint 4](/Sprint%204/README.md)
+5. [Sprint 5](/Sprint%205/README.md)
+6. [Sprint 6](/Sprint%206/README.md)
